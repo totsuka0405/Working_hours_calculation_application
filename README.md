@@ -48,8 +48,7 @@
 
 ## 📥 ユーザー向けインストール（.exe 版）
 
-1. **Releases ページ** から最新の実行ファイルをダウンロード
-   `https://github.com/totsuka0405/Working_hours_calculation_application/releases`
+1. [**Releases ページ**](https://github.com/totsuka0405/Working_hours_calculation_application/releases) から最新の実行ファイルをダウンロード
 2. 任意のフォルダに `Working_hours_calculation_application.exe` を配置
 3. ダブルクリックで起動（インストール不要）
 
